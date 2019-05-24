@@ -9,3 +9,5 @@ Research carried out on a SYMA X5SW Drone with three defined objectives.
 3. Intercept the video stream of the camera and look for vulnerabilities in it.
 
 First, we will talk about some basics of radiofrequency, tips to start a project of this type and the problems that occurred throughout.
+
+More information in: https://ezequieltbh.me/posts/2019/05/love-is-in-the-air-reverse-engineering-a-shitty-drone/
